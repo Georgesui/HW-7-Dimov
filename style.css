@@ -1,0 +1,20 @@
+.circle {
+	border-radius: 50%;
+}
+
+.quater,
+.circle,
+.rectangle {
+	border: 1px solid black;
+	display: inline-block;
+	padding: 20px;
+	margin-right: 20px;
+}
+
+.rectangle {
+	padding: 20px 30px;
+}
+
+.elemnts-selection {
+	margin-right: 20px;
+}
